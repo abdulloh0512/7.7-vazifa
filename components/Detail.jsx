@@ -8,7 +8,7 @@ const Detail = () => {
         {/* part 1 */}
         <div className='flex flex-col lg:flex-row'>
           <div className='w-full'>
-            <Image src={'/home/illustration-easy-to-implement.svg'} width={445} height={284} />
+            <Image src={'/home/illustration-easy-to-implement.svg'} width={445} height={284} alt='' />
           </div>
           <div  className='w-full flex flex-col justify-center text-center lg:text-left'>
             <h3 className='font-dmSerif sm:text-[48px] text-[32px] font-bold text-sanJuanBlue'>Easy to implement</h3>
@@ -22,7 +22,7 @@ const Detail = () => {
             <p className='text-lightSanJuanBlue text-[15px] max-w-[445px]'>Our Our pre-built form is easy to integrate in your app or website’s checkout flow and designed to optimize conversion.</p>
           </div>
           <div className='w-full'>
-            <Image src={'/home/illustration-simple-ui.svg'} width={445} height={284} /> 
+            <Image src={'/home/illustration-simple-ui.svg'} width={445} height={284} alt=''/> 
           </div>
         </div>
       </div>

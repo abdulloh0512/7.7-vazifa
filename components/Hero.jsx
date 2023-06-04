@@ -38,6 +38,7 @@ const Hero = () => {
               width={263}
               height={500}
               className=""
+              alt=""
             />
           </div>
         </div>
