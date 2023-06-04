@@ -1,6 +1,6 @@
 import React from 'react';
 import Finance from '../public/home/finance.svg';
-import Banking from '../public/home/Banking.svg';
+import Banking from '../public/home/banking.svg';
 import Payment from '../public/home/payment.svg';
 
 const Demo = () => {

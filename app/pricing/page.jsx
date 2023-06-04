@@ -1,5 +1,5 @@
 import Readystart from '@/components/Readystart';
-import Pricing from '@/components/pricing';
+import Pricing from '@/components/Pricing';
 
 
 const pricing = () => {
